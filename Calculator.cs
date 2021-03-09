@@ -1,9 +1,8 @@
 class Calculator
-{ static int Main(string[] args)
+{
+static void Main(string[] args)
 	{
-		
-		
-		
-		
+	
 	}
+
 }
